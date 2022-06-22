@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **LeWagon**
 
-- 🌱 I’m currently learning **Ruby on Rails, Javascript, Html/Css ...**
+- 🌱 I’m currently learning **Ruby on Rails, Javascript, Html, Css**
 
 - 👯 I’m looking to collaborate on **any project**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alex.castillog33@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am vegan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
