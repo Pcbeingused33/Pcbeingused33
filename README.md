@@ -16,6 +16,7 @@
 - ⚡ Fun fact **I am vegan**
 
 <h3 align="left">Connect with me:</h3>
+<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/alex-castillo-gonzalez-65a13110a/');" title="Homepage">in</div>
 <p align="left">
 </p>
 
