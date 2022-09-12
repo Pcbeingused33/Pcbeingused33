@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pcbeingused33" alt="pcbeingused33" /></a> </p>
 
-- 🔭 I’m currently working on **Launchschool** || Just graduated from **LeWagon**
+- 🔭 I’m currently working on **Launchschool** & Tecnobit || Just graduated from **LeWagon**
 
 - 🌱 I’m currently learning **Ruby on Rails, Javascript, Html, Css**
 
