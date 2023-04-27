@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pcbeingused33" alt="pcbeingused33" /></a> </p>
 
-- 🔭 I’m currently working at LeWagon
+- 🔭 I’m currently working *unemployed*.
 
 - 🌱 I’m currently learning **Ruby on Rails, Javascript, Html, Css...**
 
@@ -12,8 +12,6 @@
 - 🤝 I’m looking for help with **Ruby on Rails**
 
 - 📫 How to reach me **alex.castillog33@gmail.com**
-
-- ⚡ Fun fact **I am vegan**
 
 <h3 align="left">Connect with me:</h3>
 LinkedIn: https://www.linkedin.com/in/alex-castillo-gonzalez-65a13110a/
