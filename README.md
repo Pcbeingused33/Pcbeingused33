@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate fullstack developer from Spain</h3>
+<h1 align="center">Alex Castillo</h1>
+<h3 align="center">Fullstack dev - Ruby on Rails</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pcbeingused33" alt="pcbeingused33" /></a> </p>
-
-- 🔭 I’m currently working *unemployed*.
-
-- 🌱 I’m currently learning **Ruby on Rails, Javascript, Html, Css...**
-
-- 👯 I’m looking to collaborate on **any project**
-
-- 🤝 I’m looking for help with **Ruby on Rails**
+- 🔭 Currently *unemployed*.
 
 - 📫 How to reach me **alex.castillog33@gmail.com**
 
